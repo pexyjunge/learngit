@@ -6,4 +6,8 @@ git is a software which i'm trying to hold it.
 I hope I have a lightly future.
 I'm working hard for owning a good job.
 create a new branch.
-master created.
+<<<<<<< HEAD
+create a new branch and commit.
+=======
+create a new branch and commit.
+>>>>>>> features
