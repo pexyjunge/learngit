@@ -19,3 +19,4 @@ git is a free software.
 =======
 git is free software.
 >>>>>>> Stashed changes
+added some thing
